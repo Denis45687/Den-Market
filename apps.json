@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "DeniDash",
+    "status": "Uploading Test",
+    "download": "https://example.com/denidash.apk",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "TestApp",
+    "status": "Beta",
+    "download": "https://example.com/testapp.apk",
+    "available": false
+  }
+]
