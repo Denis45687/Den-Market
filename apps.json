@@ -13,4 +13,11 @@
     "download": "https://example.com/testapp.apk",
     "available": false
   }
+  {
+   "id": 3,
+    "name": "Dencrafty 3D: CCODE",
+    "status": "Beta",
+    "download":"https://example.com/testapp.apk",
+    "available": "true"
+  }
 ]
