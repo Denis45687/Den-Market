@@ -4,34 +4,49 @@
               "name": "DeniDash",
                   "status": "Uploading Test",
                       "download": "https://example.com/denidash.apk",
-                          "available": true
-                            },
-                              {
-                                  "id": 2,
-                                      "name": "TestApp",
-                                          "status": "Beta",
-                                              "download": "https://example.com/testapp.apk",
-                                                  "available": true
-                                                    },
-                                                      {
-                                                          "id": 3,
-                                                              "name": "Dencrafty 3D: CCODE",
-                                                                  "status": "Beta",
-                                                                      "download": "https://www.dropbox.com/scl/fi/b1vkqm2vue3j09m63znut/DenCrafty.apk?rlkey=kp9kxjboksl3jnfdlhewzajcy&st=srkol8hr&dl=0",
-                                                                          "available": true
-                                                                            },
-                                                                              {
-                                                                                  "id": 4,
-                                                                                      "name": "Grass.png",
-                                                                                          "status": "PNG IMAGE",
-                                                                                              "download": "https://www.dropbox.com/scl/fi/o5yfvneji6urrcgede467/210_20250504114153.png?rlkey=zrm4dzh72ljnn030ecxy9ccws&st=vlmz5da5&dl=0",
-                                                                                                  "available": true
-                                                                                                    },
-                                                                                                      {
-                                                                                                          "id": 5,
-                                                                                                              "name": "DeniDash v1.0 (Python).zip",
-                                                                                                                  "status": ".zip file, alpha",
-                                                                                                                      "download": "https://www.dropbox.com/scl/fi/h03aev1nv3bkdn8zmi99h/DeniDash.zip?rlkey=ss6rjz9zhtlecxxockbi8g2i1&st=0yeyg6fr&dl=0",
-                                                                                                                          "available": true
-                                                                                                                            }
-                                                                                                                        ]
+                          "available": true,
+                              "app-icon-link": "https://example.com/icons/denidash.png",
+                                  "description-stroke1": "Fast-paced endless runner game.",
+                                      "description-stroke2": "Collect coins and avoid obstacles.",
+                                          "description-stroke3": "Includes power-ups and boosts.",
+                                              "description-stroke4": "Compete with friends on the leaderboard."
+                                                },
+                                                  {
+                                                      "id": 2,
+                                                          "name": "TestApp",
+                                                              "status": "Beta",
+                                                                  "download": "https://example.com/testapp.apk",
+                                                                      "available": true,
+                                                                          "app-icon-link": "https://example.com/icons/testapp.png",
+                                                                              "description-stroke1": "Experimental test application.",
+                                                                                  "description-stroke2": "Used to test new features.",
+                                                                                      "description-stroke3": "Beta version, may contain bugs."
+                                                                                        },
+                                                                                          {
+                                                                                              "id": 3,
+                                                                                                  "name": "Dencrafty 3D: CCODE",
+                                                                                                      "status": "Beta",
+                                                                                                          "download": "https://www.dropbox.com/scl/fi/b1vkqm2vue3j09m63znut/DenCrafty.apk?rlkey=kp9kxjboksl3jnfdlhewzajcy&st=srkol8hr&dl=0",
+                                                                                                              "available": true,
+                                                                                                                  "app-icon-link": "https://i.postimg.cc/1XcwWRC9/Bez-nazvania171-20251215183931.png",
+                                                                                                                      "description-stroke1": "3D crafting and building game.",
+                                                                                                                          "description-stroke2": "Create structures in a blocky world.",
+                                                                                                                              "description-stroke3": "Multiplayer support coming soon.",
+                                                                                                                                  "description-stroke4": "Beta version, expect updates."
+                                                                                                                                    },
+                                                                                                                                      {
+                                                                                                                                          "id": 4,
+                                                                                                                                              "name": "Grass.png",
+                                                                                                                                                  "status": "PNG IMAGE",
+                                                                                                                                                      "download": "https://www.dropbox.com/scl/fi/o5yfvneji6urrcgede467/210_20250504114153.png?rlkey=zrm4dzh72ljnn030ecxy9ccws&st=vlmz5da5&dl=0",
+                                                                                                                                                          "available": true
+                                                                                                                                                            },
+                                                                                                                                                              {
+                                                                                                                                                                  "id": 5,
+                                                                                                                                                                      "name": "DeniDash v1.0 (Python).zip",
+                                                                                                                                                                          "status": ".zip file, alpha",
+                                                                                                                                                                              "download": "https://www.dropbox.com/scl/fi/h03aev1nv3bkdn8zmi99h/DeniDash.zip?rlkey=ss6rjz9zhtlecxxockbi8g2i1&st=0yeyg6fr&dl=0",
+                                                                                                                                                                                  "available": true
+                                                                                                                                                                                    }
+                                                                                                                                                                                    ]
+]
